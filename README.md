@@ -8,7 +8,7 @@
   3.- Reporte en formato .html de los casos ejecutados
 
 
-                                                         Ejercicio#2-Automatizadion
+                                                     Ejercicio#2-Automatizadion
 - Se adjunta lo siguiente
     
   1.- Script desarrollado en python y pytest de los casos de pruebas que constan en el archivo "Ejercicio#1-Manual"
