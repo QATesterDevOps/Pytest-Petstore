@@ -1,0 +1,18 @@
+{
+    "id": 1245788,
+    "category": {
+        "id": 1245788,
+        "name": "dog"
+    },
+    "name": "lobito",
+    "photoUrls": [
+        "Hola al mundo de perros"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "perros"
+        }
+    ],
+    "status": "available"
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1245788,
+    "category": {
+        "id": 1245788,
+        "name": "dog"
+    },
+    "name": "oso",
+    "photoUrls": [
+        "Hola al mundo de los perros"
+    ],
+    "tags": [
+        {
+          "id": 1,
+          "name": "perros"
+        }
+    ],
+    "status": "available"
+}

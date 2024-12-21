@@ -1,0 +1,6 @@
+1.- Abrir un cmd
+2.- Exportar la colleccion del postman .json
+3.- Dirigirse a la ruta en donde se encuentra el archivo .json
+4.- Ejecutar el comando: 
+	newman run PETSTORE.postman_collection.json -r htmlextra --reporter-htmlextra-title "Informe PetStore"
+5.- Visualizar en la carpeta newman el reporte .html
